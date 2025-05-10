@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Mistral Text Assistant",
+  "version": "1.0",
+  "description": "Send highlighted text to your local Mistral model and show response.",
+  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Mistral Assistant"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
