@@ -143,9 +143,6 @@ All your text, prompts, and model responses stay **on your device** — nothing 
 Created by Kyoungbin Cho
 Pull requests, ideas, and contributions welcome!
 
-## 📸 Screenshots
-
-_(Add demo screenshots or GIFs here, if you'd like!)_
 
 ## 📜 License
 
